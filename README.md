@@ -16,6 +16,7 @@ As our project we prepared RGB Led cube 8x8x8. Our main goal was to create somei
 
 # Hardware part
 
+* the cube
 
 The LedCube is capable of displaying preprogrammed animations and playing (for now) two games - Snake and Tetris.
 
