@@ -9,6 +9,8 @@ Video presentation: https://youtu.be/7ULbOOuEuOo
 
 As our project we prepared RGB Led cube 8x8x8. Our main goal was to create someinteresting games and nice looking animations. In the end our project consists of 2 games -snake and tetris, which can be controlled either by computer keyboard via PuTTY or in theapp on the phone using Bluetooth. In this report we are going to briefly describe thehardware part of our project as well as the individual files of the code part.
 
+![obraz](https://user-images.githubusercontent.com/45372078/105532526-3cad6a80-5ceb-11eb-91e6-005499922067.png)
+
 # Hardware part
 
 
