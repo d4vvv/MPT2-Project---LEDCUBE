@@ -35,7 +35,7 @@ As we didn’t have enough pins to connect it whole(4x4) we used only a few butt
 
 # Software
 
-![miniaturka](https://user-images.githubusercontent.com/45372078/105533359-50a59c00-5cec-11eb-8fbd-170357d8d788.jpg)
+![vlcsnap-2021-01-20-19h41m55s189](https://user-images.githubusercontent.com/45372078/105534194-6bc4db80-5ced-11eb-8c0d-6d028db5a943.png)
 
 We wrote our whole project in C language using the Keil uVision5 IDE.Our code consists of the following files:
 
@@ -75,5 +75,5 @@ All of the .c files have its header files. This way the code is more readable an
 
 ----
 
-Appendix 1: schematics_led_cube.pdf
+Appendix 1: schematics_led_cube.pdf <\br>
 Appendix 2: Led_cube_bottom.pdf
