@@ -30,7 +30,7 @@ We used HC-06. Because of this device we are able to connect to the app on the p
 
 * Keyboard
 
-As we didn’t have enough pins to connect it whole(4x4) we used only a few buttons, but it isenough for our needs because in this version of our project we use it only as a device toswitch between the games.
+As we didn’t have enough pins to connect it whole(4x4) we used only a few buttons, but it is enough for our needs because in this version of our project we use it only as a device toswitch between the games.
 
 
 # Software
