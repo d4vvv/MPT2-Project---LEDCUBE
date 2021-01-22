@@ -69,9 +69,9 @@ In this part of code we prepared the second game - snake. The main idea is the s
 
 * demo.c
 
-In this file there are prepared functions with animations. Some of them are really simple, likelighting up all of the diodes of one color or some specific shape, but there is alsodemo_obroty which lights up the contour of the cube and then rotates it.
+In this file there are prepared functions with animations. Some of them are really simple, like lighting up all of the diodes of one color or some specific shape, but there is alsodemo_obroty which lights up the contour of the cube and then rotates it.
 
-All of the .c files have its header files. This way the code is more readable and easy tochange.
+All of the .c files have its header files. This way the code is more readable and easy to change.
 
 ----
 
