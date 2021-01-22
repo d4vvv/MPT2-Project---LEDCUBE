@@ -75,5 +75,5 @@ All of the .c files have its header files. This way the code is more readable an
 
 ----
 
-Appendix 1: schematics_led_cube.pdf <\br>
+Appendix 1: schematics_led_cube.pdf <br/>
 Appendix 2: Led_cube_bottom.pdf
