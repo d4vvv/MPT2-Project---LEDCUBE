@@ -20,6 +20,8 @@ As our project we prepared RGB Led cube 8x8x8. Our main goal was to create some 
 
 We soldered 512 RGB diodes with common anode in layer. The cube is standing on a printed circuit board, made at home using thermal transfer overprinting method - printing the desired circuit from KiCad, ironing it to the plate and then etching the rest of the copper using Iron(III) chloride. On the board there are soldered 24 SCT2167 integrated circuits because of which we are able to send data to our LEDs using the limited amount of pinsfrom the processor. Beside there are also power amplifiers for each layer of the cube consisting of one NPN transistor, one MOSFET and 3 resistors.
 
+![uhhh](https://user-images.githubusercontent.com/45372078/105606013-1fce7100-5d97-11eb-9171-02d6239f5fde.jpg)
+
 * Freescale Kinetis KL05Z
 
 As the base of our project we used the same board as during laboratory classes. This way we already had experience in using the useful things like PWM, Systick, UART  on exactlythe same hardware
